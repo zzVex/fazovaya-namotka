@@ -1,0 +1,11 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {1}Намотка: как число n получает координаты}{1}{section.1}%
+\contentsline {section}{\numberline {2}Фазовая плоскость (развёртка цилиндра)}{2}{section.2}%
+\contentsline {section}{\numberline {3}Двойное решето для 6k±1}{3}{section.3}%
+\contentsline {section}{\numberline {4}Гипотеза щита}{5}{section.4}%
+\contentsline {paragraph}{Определение (щитового окна).}{5}{section*.5}%
+\contentsline {paragraph}{Наблюдение (пример \(p=5,\ q=7\)).}{5}{section*.6}%
+\contentsline {paragraph}{Формулировка (гипотеза щита).}{5}{section*.7}%
+\contentsline {paragraph}{Индуктивная эвристика.}{5}{section*.8}%
+\contentsline {section}{\numberline {5}Провал радикала: что это и как он ограничен}{5}{section.5}%
+\contentsline {section}{\numberline {6}TOR: двухфазная намотка и китайская теорема об остатках}{6}{section.6}%
