@@ -1,0 +1,9 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {1}Введение}{2}{section.1}%
+\contentsline {section}{\numberline {2}Фазовая намотка и развёртка цилиндра}{2}{section.2}%
+\contentsline {section}{\numberline {3}Векторизация и операции по фазам}{4}{section.3}%
+\contentsline {section}{\numberline {4}Минимальный треугольник и структура по $BC$}{5}{section.4}%
+\contentsline {section}{\numberline {5}Провал радикала}{7}{section.5}%
+\contentsline {section}{\numberline {6}Исторический контекст и гипотеза щита}{7}{section.6}%
+\contentsline {section}{\numberline {7}Две комбинаторные леммы}{8}{section.7}%
+\contentsline {section}{\numberline {8}Фазово-высотная формулировка гипотезы Гольдбаха}{8}{section.8}%
